@@ -8,8 +8,8 @@
 ## 🛠️ Skills & Technologies
 
 ### 🌐 Frontend & Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -41,5 +41,9 @@
 ### 💬 Let's Connect!
 - 📬 **How to reach me:** [kovmonyreaksa@gmail.com]
 - 💬 **Telegram:** [@MonyReaksaKov](https://t.me/MonyReaksaKov)
--⚡ Fun Fact: When my code has too many errors, I go to sleep. It's called "offline debugging". 😴💻
--⚡ Fun Fact: I don't give up when my code fails; I just go to sleep, pretend I'm fine, and let my dreams debug it. 🛌💤
+---
+
+## 💬 Let's Connect!
+
+- 📬 **Telegram:** [@MonyReaksaKov](https://t.me/MonyReaksaKov)
+- ⚡ **Fun Fact:** When my code has too many errors, I go to sleep. It's called "offline debugging". 😴💻
