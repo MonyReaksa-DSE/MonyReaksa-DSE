@@ -36,8 +36,10 @@
 - **Learning Journey:** Diving deep into **Machine Learning**, **SQL Database Management**, and improving my web foundations.
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonyReaksa-DSE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonyReaksa-DSE&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonyReaksa-DSE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="MonyReaksa-DSE's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonyReaksa-DSE&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+</p>
 
 ---
 
