@@ -18,7 +18,6 @@
 ### 🧠 Programming & Data Science
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -35,14 +34,10 @@
 - **Current Project:** Developing a Flask-based E-commerce website for tech gadgets (MacBooks & iPhones) and analyzing student life balance (Programming vs. Gaming).
 - **Learning Journey:** Diving deep into **Machine Learning**, **SQL Database Management**, and improving my web foundations.
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonyReaksa-DSE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="MonyReaksa-DSE's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonyReaksa-DSE&layout=compact&theme=radical" alt="Top Langs" height="180px" />
-</p>
+
 
 ---
 
 ### 💬 Let's Connect!
-- 📬 **How to reach me:** [Insert your Email or LinkedIn Link here]
+- 📬 **How to reach me:** [kovmonyreaksa@gmail.com]
 - ⚡ **Fun Fact:** I balance my long coding hours by hitting my running goals—5km down, many more to go! 🏃‍♂️💨
