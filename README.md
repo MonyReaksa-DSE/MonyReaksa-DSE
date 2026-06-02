@@ -40,6 +40,6 @@
 
 ### 💬 Let's Connect!
 - 📬 **How to reach me:** [kovmonyreaksa@gmail.com]
-- Telegram:@MonyReaksaKov
-⚡ Fun Fact: When my code has too many errors, I go to sleep. It's called "offline debugging". 😴💻
-⚡ Fun Fact: I don't give up when my code fails; I just go to sleep, pretend I'm fine, and let my dreams debug it. 🛌💤
+- 💬 **Telegram:** [@MonyReaksaKov](https://t.me/MonyReaksaKov)
+-⚡ Fun Fact: When my code has too many errors, I go to sleep. It's called "offline debugging". 😴💻
+-⚡ Fun Fact: I don't give up when my code fails; I just go to sleep, pretend I'm fine, and let my dreams debug it. 🛌💤
