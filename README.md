@@ -38,12 +38,12 @@
 
 ---
 
-### 💬 Let's Connect!
-- 📬 **How to reach me:** [kovmonyreaksa@gmail.com]
-- 💬 **Telegram:** [@MonyReaksaKov](https://t.me/MonyReaksaKov)
 ---
 
 ## 💬 Let's Connect!
 
-- 📬 **Telegram:** [@MonyReaksaKov](https://t.me/MonyReaksaKov)
+- 📬 **Email:** [kovmonyreaksa@gmail.com](mailto:kovmonyreaksa@gmail.com)
+- 💬 **Telegram:** [@MonyReaksaKov](https://t.me/MonyReaksaKov)
 - ⚡ **Fun Fact:** When my code has too many errors, I go to sleep. It's called "offline debugging". 😴💻
+
+
